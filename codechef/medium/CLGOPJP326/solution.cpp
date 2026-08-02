@@ -14,9 +14,9 @@ class Book {
 
     // Display method
     public void display() {
-        System.out.println("Code:" + code);
-        System.out.println("Title:" + title);
-        System.out.println("Price:" + price);
+        System.out.println("Code: " + code);
+        System.out.println("Title: " + title);
+        System.out.printf("Price: %.2f" + price);
     }
 }
 
