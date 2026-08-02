@@ -72,7 +72,7 @@ Error: Division by zero is not allowed.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-02T10:12:50.251Z  
+**Submitted:** 2026-08-02T10:13:15.186Z  
 
 ```java
 import java.util.*;
