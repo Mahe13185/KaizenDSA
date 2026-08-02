@@ -43,7 +43,7 @@ Price: 599.99
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-02T15:04:41.984Z  
+**Submitted:** 2026-08-02T15:08:10.781Z  
 
 ```java
 import java.util.Scanner;
@@ -51,6 +51,7 @@ import java.util.Scanner;
 class Book {
     int code;
     String title;
+    
     double price;
 
     // Constructor to initialize
@@ -64,7 +65,7 @@ class Book {
     public void display() {
         System.out.println("Code: " + code);
         System.out.println("Title: " + title);
-        System.out.println("Price: " + price);
+        System.out.printf("Price: %.2f\n" , price);
     }
 }
 
