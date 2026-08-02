@@ -20,7 +20,7 @@ class Codechef
 	           break;
 	       case "/":
 	           if (b==0){
-	               System.out.println("Error: Division by zero is not allowed");
+	               System.out.println("Error: Division by zero is not allowed.");
 	           } else{
 	               System.out.println(a/b);
 	           }
