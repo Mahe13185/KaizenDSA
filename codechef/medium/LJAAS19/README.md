@@ -23,7 +23,7 @@ CodeChef
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-02T14:49:28.259Z  
+**Submitted:** 2026-08-02T14:49:47.747Z  
 
 ```java
 public class Main {
