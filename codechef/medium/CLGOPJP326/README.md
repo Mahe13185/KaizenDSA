@@ -40,12 +40,12 @@ Price: 599.99
 
 ## Solution
 
-**Language:** Java  
+**Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-02T16:15:46.421Z  
+**Submitted:** 2026-08-02T16:16:28.025Z  
 
-```java
+```cpp
 import java.util.Scanner;
 
 class Book {
@@ -64,7 +64,7 @@ class Book {
     public void display() {
         System.out.println("Code: " + code);
         System.out.println("Title: " + title);
-        System.out.println("Price: " + price);
+        System.out.printf("Price: %.2f" + price);
     }
 }
 
