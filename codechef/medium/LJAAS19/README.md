@@ -23,12 +23,12 @@ CodeChef
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-02T14:49:47.747Z  
+**Submitted:** 2026-08-02T15:57:49.063Z  
 
 ```java
 public class Main {
     public static void main(String[] args) {
-       System.out.print("I love Codechef");
+        System.out.print("I love Codechef");
     }
 }
 
