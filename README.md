@@ -1,52 +1,49 @@
-# 🌸 Kaizen-DSA
+<div align="center">
 
-> **Kaizen (改善)** — *Continuous Improvement*
+# 🧠 Coding Solutions
 
-Welcome to **Kaizen-DSA**, my personal repository containing LeetCode solutions and my journey toward mastering Data Structures and Algorithms.
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-02--08--2026-green?style=for-the-badge)
 
-The goal of this repository is not just to collect accepted solutions, but to improve my problem-solving skills one problem at a time.
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
----
-
-## 🎯 Goals
-
-- Solve LeetCode problems consistently
-- Learn DSA pattern by pattern
-- Write clean and optimized Java solutions
-- Prepare for coding interviews
-- Track continuous improvement
+</div>
 
 ---
 
-## 💻 Language
+## 📊 Stats
 
-- Java
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **1** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| Java | **1** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
 
 ---
 
-## 📚 Learning Roadmap
+<div align="center">
 
-- ✅ Arrays
-- 🔄 Two Pointers
-- ⏳ Sliding Window
-- ⏳ Prefix Sum
-- ⏳ Hashing
-- ⏳ Binary Search
-- ⏳ Linked List
-- ⏳ Stack
-- ⏳ Queue
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Dynamic Programming
+*Last updated: 2026-08-02* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
----
-
-## 🌱 Philosophy
-
-> "Success is the sum of small improvements repeated every day."
-
-Every solved problem is one more step toward becoming a better software engineer.
-
----
-
-⭐ If you're also learning DSA, feel free to explore the solutions and learn together.
+</div>
