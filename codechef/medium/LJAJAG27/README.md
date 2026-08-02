@@ -4,14 +4,75 @@
 
 ## Problem
 
-_Description not available._
+### Arithmetic Operations
+
+Write a menu driven program to perform simple arithmetic operations based on the user's choice. The user will indicate the operation to be performed using the signs e.g. + for addition etc.
+
+### Input Format
+
+In first line take the operator as input.
+In second line take two integer numbers as input.
+
+You should take input for operators among these (+, -, *, /, %).
+
+### Sample 1:
+Input
+Output
+
+```
++
+1 2
+```
+
+```
+3
+```
+
+### Sample 2:
+Input
+Output
+
+```
+-
+9 4
+```
+
+```
+5
+```
+
+### Sample 3:
+Input
+Output
+
+```
+^
+10 2
+```
+
+```
+Invalid operator! Please use one of the following: +, -, *, /, %
+```
+
+### Sample 4:
+Input
+Output
+
+```
+/
+10 0
+```
+
+```
+Error: Division by zero is not allowed.
+```
 
 ## Solution
 
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-02T10:20:49.691Z  
+**Submitted:** 2026-08-02T10:19:04.307Z  
 
 ```java
 import java.util.*;
