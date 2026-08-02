@@ -72,7 +72,7 @@ Error: Division by zero is not allowed.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-02T10:12:27.250Z  
+**Submitted:** 2026-08-02T10:12:50.251Z  
 
 ```java
 import java.util.*;
@@ -97,7 +97,7 @@ class Codechef
 	           break;
 	       case "/":
 	           if (b==0){
-	               System.out.println("Error: Division by zero is not allowed");
+	               System.out.println("Error: Division by zero is not allowed.");
 	           } else{
 	               System.out.println(a/b);
 	           }
