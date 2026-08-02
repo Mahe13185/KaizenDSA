@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Book {
     int code;
     String title;
+    
     double price;
 
     // Constructor to initialize
@@ -16,7 +17,7 @@ class Book {
     public void display() {
         System.out.println("Code: " + code);
         System.out.println("Title: " + title);
-        System.out.println("Price: " + price);
+        System.out.printf("Price: %.2f\n" , price);
     }
 }
 
