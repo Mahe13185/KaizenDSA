@@ -61,7 +61,7 @@ Three of them are odd, so the answer is $3$.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-20T15:10:49.660Z  
+**Submitted:** 2026-08-20T15:12:21.535Z  
 
 ```java
 import java.util.*;
