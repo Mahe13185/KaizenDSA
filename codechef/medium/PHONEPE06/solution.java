@@ -13,9 +13,9 @@ class Codechef
             int target = sc.nextInt();
             int result = -1;
             for (int i=0;i<n;i++){
-                if(sc.nextInt() == target){ 
+                if(sc.nextInt() == target && result == -1){ 
                     result = i;
-                    continue;
+        
                 }
             }
             System.out.println(result);
