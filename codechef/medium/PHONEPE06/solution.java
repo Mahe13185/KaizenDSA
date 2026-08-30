@@ -15,7 +15,7 @@ class Codechef
             for (int i=0;i<n;i++){
                 if(sc.nextInt() == target){ 
                     result = i;
-                    break;
+                    continue;
                 }
             }
             System.out.println(result);
