@@ -66,7 +66,7 @@ Thus, Charlie has the maximum speed.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-30T11:17:52.976Z  
+**Submitted:** 2026-08-30T11:18:28.111Z  
 
 ```java
 import java.util.Scanner;
