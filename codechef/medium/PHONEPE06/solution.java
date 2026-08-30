@@ -13,7 +13,13 @@ class Codechef
 		    int n = sc.nextInt();
 		    int target = sc.nextInt();
 		    for (int i=0;i<n ;i++ ){
-		        if(target == sc.nextInt()) System.out.println(i);
+		        if(target == sc.nextInt()){ 
+		            System.out.println(i);
+		            break;
+		        }else{
+		            System.out.println("-1");
+		        }
+		        
 		    } 
 		    
 		}
