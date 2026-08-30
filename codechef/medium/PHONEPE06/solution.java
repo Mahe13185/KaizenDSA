@@ -8,20 +8,14 @@ class Codechef
 	{
 		Scanner sc = new Scanner(System.in);
 		int t = sc.nextInt();
-		
-		while(t-- > 0){
-		    int n = sc.nextInt();
-		    int target = sc.nextInt();
-		    for (int i=0;i<n ;i++ ){
-		        if(target == sc.nextInt()){ 
-		            System.out.println(i);
-		            break;
-		        }else{
-		            System.out.println("-1");
-		        }
-		        
-		    } 
-		    
-		}
+        while(t-- > 0){
+            int n = sc.nextInt();
+            int target = sc.nextInt();
+            int result = -1;
+            for (int i=0;i<n;i++){
+                if(sc.nextInt() == target) result = i;
+            }
+            System.out.println(result);
+        }
 	}
 }
