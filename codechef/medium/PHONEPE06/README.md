@@ -48,7 +48,7 @@ Output
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-30T14:51:32.019Z  
+**Submitted:** 2026-08-30T14:53:29.352Z  
 
 ```java
 import java.util.*;
@@ -66,9 +66,9 @@ class Codechef
             int target = sc.nextInt();
             int result = -1;
             for (int i=0;i<n;i++){
-                if(sc.nextInt() == target){ 
+                if(sc.nextInt() == target && result == -1){ 
                     result = i;
-                    continue;
+        
                 }
             }
             System.out.println(result);
