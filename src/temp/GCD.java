@@ -1,0 +1,13 @@
+package temp;
+
+public class GCD {
+    static int gcd(int x , int y){
+        if(x == 0) return y;
+        else if (y == 0) return x;
+        else return gcd(y,y%x);
+    }
+
+    static void main() {
+
+    }
+}
