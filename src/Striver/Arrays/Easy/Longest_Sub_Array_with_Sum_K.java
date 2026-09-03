@@ -34,7 +34,7 @@ public class Longest_Sub_Array_with_Sum_K {
     }
     static void main() {
         int[] arr = {1,2,3,1,1,1,1,4,2,3};
-        System.out.println(Longest_Sub_Array_with_Sum_K.solution_bruteforce(arr,3));
-        System.out.println(Longest_Sub_Array_with_Sum_K.solution_optimal(arr,3));
+        System.out.println(solution_bruteforce(arr,3));
+        System.out.println(solution_optimal(arr,3));
     }
 }
