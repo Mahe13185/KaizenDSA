@@ -1,0 +1,1 @@
+class Solution { static void reverseArray(int[] nums, int right , int left){ while(left<right){ int temp = nums[left]; nums[left] = nums[right]; nums[right] = temp; left++; right--; } } public int[] rotateArray(int[] arr, int k) { int n = arr.length; k = k % n; reverseArray(arr,0,k-1); reverseArray(arr,k,n-1); reverseArray(arr,0,n-1); return arr; } }
