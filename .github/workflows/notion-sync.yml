@@ -8,17 +8,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check Notion database
+      - name: Get Notion database
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: |
           curl -s \
             -X GET \
-            "https://api.notion.com/v1/data_sources/${NOTION_DATABASE_ID}" \
+            "https://api.notion.com/v1/databases/${NOTION_DATABASE_ID}" \
             -H "Authorization: Bearer ${NOTION_TOKEN}" \
             -H "Notion-Version: 2025-09-03" \
             -H "Content-Type: application/json" \
-            > notion-schema.json
+            > notion-database.json
 
-          cat notion-schema.json
+          cat notion-database.json
