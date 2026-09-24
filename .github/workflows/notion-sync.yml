@@ -1,6 +1,10 @@
 name: Sync LeetCode to Notion
 
 on:
+  push:
+    paths:
+      - "LeetCode/**"
+
   workflow_dispatch:
 
 jobs:
