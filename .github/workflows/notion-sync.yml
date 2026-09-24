@@ -1,23 +1,17 @@
-name: Check Notion Database Schema
+- name: Check Notion data source schema
+  env:
+    NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+  run: |
+    curl -s \
+      -X GET \
+      "https://api.notion.com/v1/data_sources/3e5592da-37f5-80e9-8db0-000b3d45bb2d" \
+      -H "Authorization: Bearer ${NOTION_TOKEN}" \
+      -H "Notion-Version: 2026-03-11" \
+      -H "Content-Type: application/json" \
+      > notion-schema.json
 
-on:
-  workflow_dispatch:
-
-jobs:
-  check-schema:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check Notion data source schema
-        env:
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        run: |
-          curl -s \
-            -X GET \
-            "https://api.notion.com/v1/data_sources/3e5592da-37f5-80e9-8db0-000b3d45bb2d" \
-            -H "Authorization: Bearer ${NOTION_TOKEN}" \
-            -H "Notion-Version: 2026-03-11" \
-            -H "Content-Type: application/json" \
-            > notion-schema.json
-
-          cat notion-schema.json
+    jq '.properties | to_entries[] | {
+      name: .key,
+      type: .value.type,
+      id: .value.id
+    }' notion-schema.json
