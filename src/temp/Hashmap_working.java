@@ -9,6 +9,6 @@ public class Hashmap_working {
         seen.put(5,0);
         seen.put(4,1);
         int value1 = 6;
-        int update = seen.getOrDefault((5,0)+1);
+        seen.getOrDefault(0,1);
     }
 }
