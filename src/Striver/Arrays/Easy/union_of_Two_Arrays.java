@@ -1,10 +1,8 @@
 package Striver.Arrays.Easy;
 
 import java.util.ArrayList;
-import java.util.Set;
-import java.util.TreeSet;
 
-public class Intersection_of_Two_Arrays {
+public class union_of_Two_Arrays {
     static void main() {
         int[] arr = {1, 2, 3, 4, 5, 6, 7};
         int[] arr2 = {3, 4, 4, 5, 7, 8};
