@@ -1,9 +1,14 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] arr) {
         List<List<Integer>> temp = new ArrayList<>();
-        HashSet<List<Integer>> seen = new HashSet<>();
+        // HashSet<List<Integer>> seen = new HashSet<>();
+
         Arrays.sort(arr);
+
         for(int i=0;i<arr.length;i++){
+            // check i duplicate 
+            if(i>0 && arr[i] == arr[i-1]) continue;
+
             int left = i+1;
             int right = arr.length - 1;
             while(left<right){
@@ -20,8 +25,11 @@ class Solution {
 
                     left++;
                     right--;
-                    if(seen.add(row))
+                    // if(seen.add(row))
                         temp.add(row);
+
+                    while(left<right && arr[left] == arr[left-1]) left++;
+                    while(left<right && arr[right] == arr[right+1]) right--;
                 }
             }
         }
