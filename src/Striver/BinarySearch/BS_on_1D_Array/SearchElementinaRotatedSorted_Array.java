@@ -23,7 +23,7 @@ public class SearchElementinaRotatedSorted_Array {
 
     static void main() {
         int[] arr = {6,7,8,9,1,2,3};
-        int result = SearchElementinaRotatedSorted_Array.solution(arr , 3);
+        int result = solution(arr , 3);
         System.out.println(result);
     }
 }
