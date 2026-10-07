@@ -6,7 +6,7 @@ class Solution {
         HashSet<Integer> seen = new HashSet<>();
         HashSet<Integer> added = new HashSet<>();
 
-        // nums1 → seen
+        
         for (int ele : nums2) {
             seen.add(ele);
         }
