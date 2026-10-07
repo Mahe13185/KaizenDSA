@@ -1,49 +1,27 @@
 class Solution {
-    public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
+        public  List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
+        HashSet<Integer> set1 = new HashSet<>();
+        HashSet<Integer> set2 = new HashSet<>();
 
-        List<List<Integer>> res = new ArrayList<>();
+        for (int ele : nums1)
+            set1.add(ele);
+        for (int ele : nums2)
+            set2.add(ele);
 
-        HashSet<Integer> seen = new HashSet<>();
-        HashSet<Integer> added = new HashSet<>();
-
-        
-        for (int ele : nums2) {
-            seen.add(ele);
-        }
-
-        // Elements in nums2 but not nums1
         List<Integer> first = new ArrayList<>();
-
-        for (int ele : nums1) {
-            if (!seen.contains(ele) && !added.contains(ele)) {
-                first.add(ele);
-                added.add(ele);
-            }
-        }
-
-        res.add(first);
-
-        // Clear for second direction
-        seen.clear();
-        added.clear();
-
-        // nums2 → seen
-        for (int ele : nums1) {
-            seen.add(ele);
-        }
-
-        // Elements in nums1 but not nums2
         List<Integer> second = new ArrayList<>();
 
-        for (int ele : nums2) {
-            if (!seen.contains(ele) && !added.contains(ele)) {
-                second.add(ele);
-                added.add(ele);
-            }
+        for (int ele : set1){
+            if(!set2.contains(ele))
+                first.add(ele);
         }
 
-        res.add(second);
+        for (int ele : set2){
+            if (!set1.contains(ele))
+                second.add(ele);
+        }
 
-        return res;
+        return List.of(first,second);
     }
+
 }
