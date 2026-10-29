@@ -4,7 +4,7 @@
 
 ## Problem
 
-### Weapon Value
+vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET vvit25bq5a0516 25BQ5A0516@VVIT.NET
 
 A competition with $N$ participants (numbered $1$ through $N$) is taking place in Chefland. There are $N-1$ rounds in the competition; in each round, two arbitrarily chosen contestants battle, one of them loses and drops out of the competition.
 
@@ -55,7 +55,7 @@ Output
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-03T15:37:26.937Z  
+**Submitted:** 2026-10-29T06:25:30.957Z  
 
 ```java
 import java.util.*;
@@ -66,18 +66,24 @@ class Codechef
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-	    Scanner sc = new Scanner(System.in);
-	    int t = sc.nextInt();
-	    while(t-- > 0){
-	        int n = sc.nextInt();
-	        int xor_val = 0;
-	        for(int i =0;i<n;i++){
-	            int no = Integer.parseInt(sc.next() , 2);
-	            xor_val = xor_val ^ no;
-	        }
-	        System.out.println(Integer.bitCount(xor_val));
-	        
-	    }
+		Scanner sc = new Scanner(System.in);
+		int t = sc.nextInt();
+		
+		while(t-- > 0){
+		    int res = 0;
+		    int x = sc.nextInt();
+		    
+		    for (int i=0;i<x;i++){
+		        res = res ^ Integer.parseInt(sc.next(),2);
+		        
+		    } 
+		    
+		   System.out.println(Integer.bitCount(res));
+		   
+		    
+		    
+		}
+
 	}
 }
 
