@@ -6,15 +6,16 @@ class Solution {
         }
         List<Map.Entry<Character,Integer>> list = new ArrayList<>(seen.entrySet());
 
-        list.sort( (a,b) -> Integer.compare(b.getValue() , a.getValue()) );
+        list.sort( (a,b) -> b.getValue() - a.getValue());
 
         StringBuilder res = new StringBuilder();
 
         for(Map.Entry<Character,Integer> entry : list){
             char ch = entry.getKey();
             int count = entry.getValue();
-            String temp = String.valueOf(ch).repeat(count);
-            res.append(temp);
+            for(int i=0;i<count;i++){
+                res.append(ch);
+            }
         }
         return res.toString();
     }
